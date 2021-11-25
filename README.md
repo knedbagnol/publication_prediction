@@ -147,11 +147,15 @@ Additionally, I would just like more power so I can make this model as strong as
 ## Sources
 ---
 #### **BERT Transformer**
-1. [Multi Class BERT Transformer](https://www.google.com/search?q=bert+transformer+multiclass&client=safari&rls=en&sxsrf=AOaemvLGnUPUyb8RvBiA9SSsQNWHxoDfCA%3A1637272550689&ei=5suWYdOhKcna0PEP0LW6MA&oq=bert+transformer+mult&gs_lcp=Cgdnd3Mtd2l6EAMYADIECCMQJzIGCAAQFhAeOgcIABBHELADOgUIABCABEoECEEYAFD4FljjG2DvIWgCcAB4AIABY4gB8wKSAQE0mAEAoAEByAEIwAEB&sclient=gws-wiz)
+1.[Multi Class BERT Transformer](https://www.google.com/search?q=bert+transformer+multiclass&client=safari&rls=en&sxsrf=AOaemvLGnUPUyb8RvBiA9SSsQNWHxoDfCA%3A1637272550689&ei=5suWYdOhKcna0PEP0LW6MA&oq=bert+transformer+mult&gs_lcp=Cgdnd3Mtd2l6EAMYADIECCMQJzIGCAAQFhAeOgcIABBHELADOgUIABCABEoECEEYAFD4FljjG2DvIWgCcAB4AIABY4gB8wKSAQE0mAEAoAEByAEIwAEB&sclient=gws-wiz)
+
 2.[BERT Transformer](https://jalammar.github.io/illustrated-bert/)
+
 3.[Multiclass Text Classification](https://github.com/b-analyst/Mental-Health-Label-Prediction/blob/master/Capstone%202/Capstone%202%20Codes/BERT_finetune.ipynb)
 
 #### **Etc.** various sources of information
-1. [Machine Learning](https://towardsdatascience.com/machine-learning-text-processing-1d5a2d638958)
+1.[Machine Learning](https://towardsdatascience.com/machine-learning-text-processing-1d5a2d638958)
+
 2.[Sentiment Analysis](https://towardsdatascience.com/sentimental-analysis-using-vader-a3415fef7664)
+
 3.[Stemming in Nltk](https://machinelearningknowledge.ai/beginners-guide-to-stemming-in-python-nltk/)
