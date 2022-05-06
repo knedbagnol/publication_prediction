@@ -1,14 +1,6 @@
 # Publication Prediction
 ##### Kennedy Bagnol
 ___
-
-### Premise
-
-For my capstone I wanted to incorporate NLP into my work. I greatly enjoyed NLP on one of my previous projects, and I wanted to expand on my previous work and venture deeper into the the world of Machine Learning and language.
-
-I also wanted to work on something that would be relevant to the world right now, and as news media becomes ever more pervasive in our lives, understanding how they function and what bias they may have becomes more important every day.
-
-___
 ### Problem Statement
 
 I created two models for this project trying to answer two different questions.
