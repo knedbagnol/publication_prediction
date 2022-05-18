@@ -1,5 +1,4 @@
 # Publication Prediction
-##### Kennedy Bagnol
 ___
 ### Problem Statement
 
